@@ -4,7 +4,7 @@
   "description": "",
   "license": "ISC",
   "author": "Kevin Lee, Juan Rozembeim",
-  "type": "commonjs",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "ej1": "node src/ej1.js",
