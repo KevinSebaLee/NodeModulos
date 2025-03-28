@@ -18,7 +18,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
+    "currency-map-country": "^1.0.12",
     "npm": "^11.2.0"
-  },
-  "devDependencies": {}
+  }
 }
